@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TermApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon">icon</string>
+    <string name="termapp">TermApp</string>
+    <string name="menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="email">Email</string>
+    <string name="has_o">Hasło</string>
+    <string name="zaloguj">ZALOGUJ</string>
+    <string name="rejestracja">Rejestracja</string>
+</resources>
